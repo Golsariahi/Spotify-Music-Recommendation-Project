@@ -67,13 +67,6 @@ This project focuses on analyzing historical music trends and developing a perso
 
 ---
 
-## Future Enhancements  
-1. Incorporate user listening history to implement collaborative filtering.  
-2. Include real-time trends and social media data for better predictions.  
-3. Combine content-based and collaborative filtering to improve recommendation accuracy.  
-
----
-
 ## Conclusion  
 
 Through this analysis, significant trends in the music data over time were uncovered. For instance, acousticness decreased over the decades, while energy and loudness increased, reflecting changes in music production trends and listener preferences.
