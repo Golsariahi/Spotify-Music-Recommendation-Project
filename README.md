@@ -75,11 +75,6 @@ This project focuses on analyzing historical music trends and developing a perso
 ---
 
 ## Conclusion  
-Here’s the **recommended conclusion** with a polished and professional tone, maintaining technical clarity while highlighting business impact:
-
----
-
-## Conclusion  
 
 Through this analysis, significant trends in the music data over time were uncovered. For instance, acousticness decreased over the decades, while energy and loudness increased, reflecting changes in music production trends and listener preferences.
 
